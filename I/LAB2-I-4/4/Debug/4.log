@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alexandru\source\repos\4\4\source.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alexandru\source\repos\4\4\source.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  4.vcxproj -> c:\Users\alexandru\source\repos\4\Debug\4.exe
